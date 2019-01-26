@@ -43,7 +43,8 @@ Membuat Repository Local
 - Buat File Bernama "README.md" (text file), jika file berhasil dibuat, akan tampil seperti dlm gambar                              
 ![echo](https://user-images.githubusercontent.com/46749350/51788211-3736dd00-2130-11e9-9b29-40e2b5880ed7.jpg)
 
-- Kemudian tambahkan file tersebut ke repository dengan " git add README.md, file yang berhasil ditambahkan akan terlihat seperti di gambar, dengan "git status"
+- Kemudian tambahkan file tersebut ke repository dengan " git add README.md, file yang berhasil ditambahkan akan terlihat seperti di gambar, dengan "git status"                                                           
+![git add readme](https://user-images.githubusercontent.com/46749350/51788268-b1676180-2130-11e9-9213-9a648b56d6c6.jpg)
 
 - Untuk Menyimpan perubahan sebuah file ke repository local gunakan printah " git commit -m "perubahan yang terjadi"
 
