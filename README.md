@@ -37,7 +37,8 @@ Membuat Repository Local
 ![cd](https://user-images.githubusercontent.com/46749350/51788097-fe4a3880-212e-11e9-88a0-f73a8a545c25.jpg)                         
 
 
-- Lakukan "git init" untuk menjadikan repository lokal
+- Lakukan "git init" untuk menjadikan repository lokal                                                            
+![git init](https://user-images.githubusercontent.com/46749350/51788185-f2ab4180-212f-11e9-8a1e-f9e192a50229.jpg)
 
 - Buat File Bernama "README.md" (text file), jika file berhasil dibuat, akan tampil seperti dlm gambar
 
