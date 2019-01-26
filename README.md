@@ -14,7 +14,7 @@ Menambahkan Global Config
 - Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user name dan user email                            
 - Konfigurasi ini bisa dilakukan untuk global repostiry atau individual repository.                                   
 - Apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit                    
-- Lakukan "git config --global user.name dan emal " supaya bisa login github ketika push #  
+- Lakukan "git config --global user.email dan name " supaya bisa login github ketika push #  
 ![config](https://user-images.githubusercontent.com/46749350/51788075-b75c4300-212e-11e9-8323-2d41c528e2c2.jpg)
 
 Perintah Dasar Git
