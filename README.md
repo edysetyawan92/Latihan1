@@ -24,8 +24,7 @@ Perintah Dasar Git
 - git commit, perintah untuk menyimpan perubahan kedalam database git.
 - git push -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository.
 - git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever.
-- git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)
-
+- git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)     
 
 Membuat Repository Local
 
@@ -78,4 +77,5 @@ Push (Mengirim perubahan ke server)
 Melihat hasilnya pada server repository 
 
 - Buka laman github.com, arahkan pada repositori- nya.
-- Maka perubahan akan terlihat pada laman tersebut. #
+- Maka perubahan akan terlihat pada laman tersebut. #                                                              
+![tampilan](https://user-images.githubusercontent.com/46749350/51788328-a8c35b00-2131-11e9-98ee-d13a9ffaa1f7.jpg)
