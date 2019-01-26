@@ -55,10 +55,11 @@ Membuat Repository Server
 ![new repo](https://user-images.githubusercontent.com/46749350/51792503-91eb2b80-2166-11e9-83b1-8f39c8c78aea.jpg)
 
 
-Membuat repository server 
+Membuat Repository Server 
 
 - Isi nama repositorynya, misal: Latihan1.
-- lalu klik tombol Create repository
+- lalu klik tombol Create repository                                                                                
+![judul](https://user-images.githubusercontent.com/46749350/51792527-23f33400-2167-11e9-98ea-f0b8e4c4beec.jpg)
 
 Menambahkan Remote Repository 
 
