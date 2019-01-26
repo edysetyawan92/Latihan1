@@ -46,7 +46,8 @@ Membuat Repository Local
 - Kemudian tambahkan file tersebut ke repository dengan " git add README.md, file yang berhasil ditambahkan akan terlihat seperti di gambar, dengan "git status"                                                           
 ![git add readme](https://user-images.githubusercontent.com/46749350/51788268-b1676180-2130-11e9-9213-9a648b56d6c6.jpg)
 
-- Untuk Menyimpan perubahan sebuah file ke repository local gunakan printah " git commit -m "perubahan yang terjadi"
+- Untuk Menyimpan perubahan sebuah file ke repository local gunakan printah " git commit -m "perubahan yang terjadi"                 
+![git commit](https://user-images.githubusercontent.com/46749350/51788283-0b682700-2131-11e9-9395-8fc54405cb46.jpg)
 
 
 Membuat Repository Server
