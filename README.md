@@ -33,7 +33,9 @@ Membuat Repository Local
 - Buat direktory project praktikum pertama dengan nama Latihan
 - Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
 - Direktory aktif menjadi: c:/Latihan
-- Buatlah direktory "Latihan" kemudian masuk ke direktory tersebut
+- Buatlah direktory "Latihan" kemudian masuk ke direktory tersebut                                               
+![cd](https://user-images.githubusercontent.com/46749350/51788097-fe4a3880-212e-11e9-88a0-f73a8a545c25.jpg)                         
+
 
 - Lakukan "git init" untuk menjadikan repository lokal
 
